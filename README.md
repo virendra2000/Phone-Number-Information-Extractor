@@ -40,5 +40,6 @@ cd phone-number-info-extractor
 ### Install the required dependencies: ###
 
 ```
-pip install -r requirements.txt
+pip install phonenumbers
 ```
+
