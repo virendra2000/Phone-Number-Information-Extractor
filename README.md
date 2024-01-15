@@ -34,4 +34,11 @@ Clone the repository to your local machine:
 
 ```
 https://github.com/virendra2000/Phone-Number-Information-Extractor.git
+cd phone-number-info-extractor
+```
+
+### Install the required dependencies: ###
+
+```
+pip install -r requirements.txt
 ```
