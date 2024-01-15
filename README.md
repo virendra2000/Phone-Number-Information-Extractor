@@ -37,9 +37,27 @@ https://github.com/virendra2000/Phone-Number-Information-Extractor.git
 cd phone-number-info-extractor
 ```
 
-### Install the required dependencies: ###
+### Install the required dependencies:
 
 ```
 pip install phonenumbers
 ```
+
+## How to Run
+
+### Run the script and enter the phone number when prompted:
+
+```
+python phone_info_extractor.py
+```
+
+## Contributions
+
+### Contributions are welcome! If you have any ideas for improvement or find any issues, feel free to open an issue or submit a pull request.
+
+## License
+
+### This project is licensed under the MIT License - see the LICENSE file for details.
+
+### Feel free to modify this content as per your project's specifics.
 
