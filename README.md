@@ -32,6 +32,6 @@ This project is designed to extract valuable information from a given phone numb
 
 Clone the repository to your local machine:
 
-'''
+```
 https://github.com/virendra2000/Phone-Number-Information-Extractor.git
-'''
+```
