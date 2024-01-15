@@ -14,7 +14,7 @@ This project is designed to extract valuable information from a given phone numb
 ## Usage
 
 1. **Input:**
-    - Enter a phone number with the international dialing code.
+   Enter a phone number with the international dialing code.
     ```
     Enter Your Phone Number with +__: +91XXXXXXXXX9
     ```
